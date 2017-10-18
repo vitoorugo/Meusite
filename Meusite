@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Meu Site</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="Estilo.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Creepster|Luckiest+Guy" rel="stylesheet">
+    </head>
+    <body>
+        <h1 class="vermelho">Meu site</h1>
+        <h2>Uma chamada para o meu site</h2> 
+        <hr>
+        <p class="vermelho"> Lorem Ipsum Dolor Sit Amet </p>
+        <p> Lorem Ipsum Dolor Sit Amet </p>
+        
+        <div class="centro">
+            <img Alt="imagem" src="https://blog.animationstudies.org/wp-content/uploads/2017/03/Zy2vKfU.png">
+        </div>
+        
+    </body>
+</html>
